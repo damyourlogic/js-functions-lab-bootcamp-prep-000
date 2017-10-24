@@ -12,4 +12,4 @@ happyHolidayTo("Thankgiving, Jon")
 function holidayCountdown (days, holiday){
   return (`It's ${days} days until ${holiday}!`)
 }
-holidayCountdown("60, Christmas")
+holidayCountdown("60, Mothers Day")
